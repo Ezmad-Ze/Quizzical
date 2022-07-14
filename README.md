@@ -30,8 +30,8 @@ Create Quiz app
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live]()
+- Solution URL: [Solution](https://clinquant-pie-5ac909.netlify.app/)
+- Live Site URL: [Live](https://github.com/Ezmad-Ze/Quizzical)
 
 ## My process
 
