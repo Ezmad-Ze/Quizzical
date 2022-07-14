@@ -1,4 +1,4 @@
-# Frontend Mentor - Todo app solution
+# Freecodecamp- Quzzical solution
 
 This is a solution to the [Quzzical challenge on Freecodecamp React JS tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8). 
 
